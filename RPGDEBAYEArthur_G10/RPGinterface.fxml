@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="371.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="388.0" fitWidth="663.0" layoutX="-59.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Captures%20d'écran/Background_RPG.gif" />
+         </image>
+      </ImageView>
+      <Button layoutX="228.0" layoutY="207.0" mnemonicParsing="false" prefHeight="33.0" prefWidth="145.0" style="-fx-background-image: Desktop/Captures d'écran/Background_RPG.gif;" text="Start Game" wrapText="true">
+         <font>
+            <Font name="DejaVu Sans Bold" size="17.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
